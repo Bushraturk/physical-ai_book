@@ -35,7 +35,7 @@ After completing this lab, you will be able to:
 
 ## Lab Steps
 
-![NVIDIA Isaac Perception and VSLAM Architecture](/img/nvidia-isaac-perception-pipeline.png)
+![NVIDIA Isaac Perception and VSLAM Architecture](/img/nvidia-isaac-diagrams/nvidia-isaac-perception-pipeline.png)
 
 ### Step 1: Environment Setup
 

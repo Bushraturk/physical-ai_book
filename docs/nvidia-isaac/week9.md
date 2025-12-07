@@ -19,7 +19,7 @@ By the end of this week, you will be able to:
 
 ## AI-Brain Integration Architecture
 
-![NVIDIA Isaac AI-Brain Architecture](/img/nvidia-isaac-perception-pipeline.png)
+![NVIDIA Isaac AI-Brain Architecture](/img/nvidia-isaac-diagrams/nvidia-isaac-perception-pipeline.png)
 
 NVIDIA Isaac's AI-brain architecture consists of multiple interconnected systems:
 

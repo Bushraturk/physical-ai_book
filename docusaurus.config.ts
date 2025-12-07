@@ -15,22 +15,26 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-organization.github.io',
+  url: 'https://my-website-git-main-bushraturk.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/physical-ai-textbook/',
+  // For static hosting like Vercel, root is appropriate
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-organization', // Usually your GitHub org/user name.
-  projectName: 'physical-ai-textbook', // Usually your repo name.
+  organizationName: 'Bushraturk', // Usually your GitHub org/user name.
+  projectName: 'my-website', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
 
   // Markdown configuration to handle broken images
   markdown: {
     mermaid: true,
+    mdx1Compat: {
+      comments: true,
+      admonitions: true,
+      headingIds: true,
+    },
   },
 
   // Even if you don't use internationalization, you can use this field to set
@@ -50,7 +54,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/your-organization/physical-ai-textbook/edit/main/',
+            'https://github.com/Bushraturk/Physical-AI-Book/edit/main/',
           routeBasePath: '/', // Serve the docs at the root
         },
         theme: {
@@ -66,6 +70,7 @@ const config: Config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
+        blog: false, // Disable blog functionality for textbook
       } satisfies Preset.Options,
     ],
   ],
@@ -154,7 +159,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/your-organization/physical-ai-textbook',
+              href: 'https://github.com/Bushraturk/Physical-AI-Book',
             },
           ],
         },

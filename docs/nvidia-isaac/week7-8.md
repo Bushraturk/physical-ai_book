@@ -19,7 +19,7 @@ By the end of this week, you will be able to:
 
 ## Introduction to NVIDIA Isaac Perception
 
-![Isaac Perception Pipeline](/img/nvidia-isaac-perception-pipeline.png)
+![Isaac Perception Pipeline](/img/nvidia-isaac-diagrams/nvidia-isaac-perception-pipeline.png)
 
 NVIDIA Isaac provides a comprehensive suite of perception tools built on top of NVIDIA's GPU-accelerated computing platform. The Isaac perception stack includes:
 

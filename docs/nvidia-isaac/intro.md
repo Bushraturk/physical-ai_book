@@ -9,7 +9,7 @@ Welcome to Module 3 of the Physical AI & Humanoid Robotics course! In this modul
 
 ## What is NVIDIA Isaac?
 
-![NVIDIA Isaac Ecosystem](/img/nvidia-isaac-perception-pipeline.png)
+![NVIDIA Isaac Ecosystem](/img/nvidia-isaac-diagrams/nvidia-isaac-overview.png)
 
 NVIDIA Isaac is NVIDIA's robotics platform that combines hardware and software to accelerate the development and deployment of AI-powered robots. It includes:
 

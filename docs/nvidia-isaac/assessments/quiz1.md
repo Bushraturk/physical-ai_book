@@ -11,7 +11,7 @@ This quiz assesses your understanding of NVIDIA Isaac and AI-based robotics cove
 
 ## Questions
 
-![NVIDIA Isaac Perception System](/img/nvidia-isaac-perception-pipeline.png)
+![NVIDIA Isaac Perception System](/img/nvidia-isaac-diagrams/nvidia-isaac-perception-pipeline.png)
 
 ### Question 1: What is the primary purpose of NVIDIA Isaac in robotics applications?
 A) To provide mechanical components for robot construction

@@ -146,6 +146,16 @@ const sidebars: SidebarsConfig = {
       type: 'doc',
       id: 'conclusion',
     },
+    {
+      type: 'category',
+      label: 'Instructor Guide',
+      collapsible: true,
+      collapsed: true,
+      items: [
+        'instructor-guide/intro',
+        'instructor-guide/offline-access',
+      ],
+    },
   ],
 };
 

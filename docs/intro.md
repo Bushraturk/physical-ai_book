@@ -56,4 +56,4 @@ Each week includes:
 - Assessments to evaluate your understanding
 - Hardware setup guides for hands-on implementation
 
-Navigate through the modules using the sidebar, or continue with [Week 1: ROS 2 Introduction](./ros2/intro.md).
+Navigate through the modules using the sidebar, or continue with [Week 1: ROS 2 Introduction](/docs/ros2/intro).

@@ -20,7 +20,7 @@ Upon completion of this assignment, you will be able to:
 
 ## Assignment Requirements
 
-![NVIDIA Isaac Pipeline Architecture](/img/nvidia-isaac-perception-pipeline.png)
+![NVIDIA Isaac Pipeline Architecture](/img/nvidia-isaac-diagrams/nvidia-isaac-perception-pipeline.png)
 
 
 ### Part 1: System Design (20 points)
