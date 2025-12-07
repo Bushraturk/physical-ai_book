@@ -28,6 +28,7 @@ const config: Config = {
   projectName: 'my-website', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'warn',
 
   // Markdown configuration to handle broken images
   markdown: {
@@ -46,6 +47,8 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  trailingSlash: false, // Important for Vercel deployment to ensure consistent path handling
 
   presets: [
     [
